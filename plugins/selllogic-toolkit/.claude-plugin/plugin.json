@@ -1,6 +1,6 @@
 {
   "name": "selllogic-toolkit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Claude Code 스터디 심화반 교보재. 기획·문서·시트·슬랙·크롤링·OCR·데스크톱 자동화·슬랙 상주 봇 스킬 묶음.",
   "author": {
     "name": "셀로직 selllogic"
