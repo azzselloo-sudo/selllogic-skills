@@ -1,0 +1,10 @@
+{
+  "name": "selllogic-free",
+  "version": "0.1.0",
+  "description": "1인 사업자용 무료 스킬 묶음. 알면 1분, 모르면 반나절 걸리는 절차 지식: 스마트스토어 커머스API 앱 발급, N배송·파스토 셋업, 저장소 공개 전 비밀키 검사, 윈도우 작업 스케줄러가 조용히 안 도는 경우.",
+  "author": {
+    "name": "셀로직 selllogic"
+  },
+  "keywords": ["korean", "smartstore", "solopreneur", "security", "windows", "automation"],
+  "license": "MIT"
+}
