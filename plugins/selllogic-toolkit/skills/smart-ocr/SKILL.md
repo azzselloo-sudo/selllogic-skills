@@ -5,7 +5,7 @@
 
 # Basic Information
 name: smart-ocr
-description: ">"
+description: "PaddleOCR 로 이미지·스캔 PDF 에서 글자를 뽑는다(100+ 언어, 위치·신뢰도 포함). \"이 이미지 글자 뽑아줘\", \"스캔 PDF 텍스트로\", \"OCR 해줘\", \"명함 사진 읽어줘\", \"중국어·영어 섞인 이미지 추출\" 요청 시 사용. 한글 문서 hwp 는 hwp-extract 가 담당한다."
 version: "1.0"
 author: claude-office-skills
 license: MIT
