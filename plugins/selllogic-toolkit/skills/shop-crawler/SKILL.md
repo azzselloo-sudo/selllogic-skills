@@ -6,7 +6,7 @@ description: 타사·경쟁사 쇼핑몰의 상품명·소비자가·실제할�
 # 쇼핑몰 상품 크롤링
 
 ```bash
-py -3 <프로젝트>/00-core\02-scripts\36-shop-crawler\crawl.py "<목록URL>" -o "<출력폴더>" --sheet
+py -3 <프로젝트>/00-core\02-scripts\44-shop-crawler\crawl.py "<목록URL>" -o "<출력폴더>" --sheet
 py -3 ... crawl.py "<카페24URL>" "<올영URL>" "<네이버URL>" -o out --sheet   # 여러 몰 한 시트
 py -3 ... crawl.py demo                                                      # 파서 자체점검
 ```
